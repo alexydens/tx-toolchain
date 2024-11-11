@@ -24,3 +24,5 @@ cd bochs-2.8
   --disable-plugins \
   --disable-docbook \
   --with-x --with-x11 --with-term --with-sdl2
+
+make && make install
